@@ -5,7 +5,7 @@
 |Tittle|Date|Status|Avaliability|
 | :---: | :---: | :---: | :---: | 
 |**Halborn Ethereum CTF**|**-**|**Pending**|**Unavaliable**|
-|**ChaosChain ERC-8004**| **December 2025** | **Completed** | [**Avaliable**](https://github.com/wasny0ps/Public-Reports/)|
+|**ChaosChain ERC-8004 Implementation**| **December 2025** | **Completed** | [**Avaliable**](https://github.com/wasny0ps/Public-Reports/)|
 
 
 ## Malware Analysis
